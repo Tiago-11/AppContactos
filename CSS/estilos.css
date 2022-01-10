@@ -1,0 +1,21 @@
+div#cabecera{
+    background-color: midnightblue;
+    text-align: start;
+}
+div#cabecera h2{
+    color: white;
+    padding: 20px;
+}
+
+div#central .row{
+    width: 100%;
+}
+
+div#central h3{
+    text-align: center;
+}
+
+div#vistaContactos div{
+    display: inline-block;
+    margin: 0;
+}
